@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[38],{1015:function(t,e,n){"use strict";n.r(e);var l={name:"SlidePainelComponent"},o=n(195),component=Object(o.a)(l,(function(){return(0,this._self._c)("div",{staticClass:"flex flex-row items-stretch"},[this._t("default")],2)}),[],!1,null,null,null);e.default=component.exports}}]);
